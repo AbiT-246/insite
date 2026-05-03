@@ -1,0 +1,4 @@
+# Local MongoDB data directory (WiredTiger files, journals, locks, metrics).
+# Recreate by running the database service (e.g. docker compose up database).
+**/*
+!.gitignore
